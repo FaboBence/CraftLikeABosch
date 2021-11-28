@@ -1,5 +1,7 @@
 # CraftLikeABosch
 
+YouTube DEMO: https://youtu.be/6ov8a-5scq4
+
 Introducing the problem
 15 000 large animal roadkills occur every year in Hungary, which is approximately 8 times more than pedestrian hits in a year. These accidents cause injuries and on average $2000 worth of damage to property. Our system aims to reduce the number of collisions by detecting near road animals in time to allow for deceleration and emergency braking. 
 Most modern cars are equipped with pedestrian detection systems, like the “Multi Purpose Camera” of Bosch, which triggers emergency braking upon a detected obstacle in the way. But it is not suitable for wildlife detection, especially at country road speeds because it was developed mainly for urban environments.
